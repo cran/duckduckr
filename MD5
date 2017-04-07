@@ -1,0 +1,11 @@
+de72658d904f5ca4fe5a04e6e66ceb72 *DESCRIPTION
+fd8b509d4d654a5d6b1d9cd0365c919d *LICENSE
+2dab4f6538dcb9ad12bb7c2abafa8ed0 *NAMESPACE
+0f6f26d663a8d4b35e7eec0e9772d26f *NEWS.md
+87070c05d8df5e65fbe7e29e5597072e *R/duckduck-answer.R
+7f0f82be3dbf3608f277f1902bf59988 *R/duckduckr-package.R
+4093385425c44959d9531162d6447c8e *README.md
+46d509f72e4c6055e03fcbfa823df64f *man/duckduck_answer.Rd
+93a1ed69104eba499e4ae92fb5e9e7df *man/duckduckr.Rd
+6e192231c10cfd417f700a55cd3e4efa *tests/testthat.R
+eb2af222af969995ab6fbf60d39bc9f8 *tests/testthat/test-duckduck-answer.R
